@@ -107,4 +107,5 @@ Justin Jabo
 - [Linkedin Article](https://www.linkedin.com/pulse/gradio-app-predicting-telco-customer-churn-jabo-justin) 
 - [Medium Article](https://medium.com/@jabojustin250/gradio-app-for-predicting-telco-customer-churn-d932dda64b69)
 - [Github Repository](https://github.com/justinjabo250?tab=repositories)
+- [Streamlit App](https://github.com/justinjabo250/Streamlit-Machine-Leaning-app)
 ...
