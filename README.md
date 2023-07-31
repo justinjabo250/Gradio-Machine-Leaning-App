@@ -4,7 +4,7 @@
 ![gradioaaac](https://github.com/justinjabo250/GRADIO-APP-FOR-PREDICTING-TELCO-CUSTOMER-CHURN/assets/115732734/e3ca2ef3-5cdc-4e3c-a05d-2e4e27265552)
 
 
-# GRADIO-MACHINE-LEANING-APP-FOR-PREDICTING-TELCO-CUSTOMER-CHURN
+## GRADIO-MACHINE-LEANING-APP-FOR-PREDICTING-TELCO-CUSTOMER-CHURN
 
 
 # 🚀 Friendly Web Interface for Machine Leaning Project with Streamlit App 🚀
