@@ -17,8 +17,7 @@ For many businesses, especially those in the telecommunications industry, custom
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-|GRADIO App | GRADIO MACHINE LEANING APP FOR PREDICTING TELCO CUSTOMER CHURN |  [Read more here](https://www.linkedin.com/pulse/gradio-app-predicting-telco-customer-churn-jabo-justin)
-[Read more here](https://medium.com/@jabojustin250/gradio-app-for-predicting-telco-customer-churn-d932dda64b69) | [Check on the App](http://127.0.0.1:7865) |
+|GRADIO App | GRADIO MACHINE LEANING APP FOR PREDICTING TELCO CUSTOMER CHURN |  [Read more here](https://www.linkedin.com/pulse/gradio-app-predicting-telco-customer-churn-jabo-justin)[Read more here](https://medium.com/@jabojustin250/gradio-app-for-predicting-telco-customer-churn-d932dda64b69) | [Check on the App](http://127.0.0.1:7865) |
 
 
 
